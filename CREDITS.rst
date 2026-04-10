@@ -62,6 +62,7 @@ Source contributors, sponsors, advisors, translators and frequent bug-reporters
 * Andy Piper
 * Ankith
 * Antonio Carlos
+* @aquazod
 * atesin
 * athompson673
 * Augene J. Pak
