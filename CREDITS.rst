@@ -97,6 +97,7 @@ Source contributors, sponsors, advisors, translators and frequent bug-reporters
 * Duncan Ogilvie (@mrexodia)
 * Eliot Blennerhassett
 * Emanuel Angelo
+* @evan-william
 * Fabianus.c
 * Farshid Meidani
 * Filip Schouwenaars
